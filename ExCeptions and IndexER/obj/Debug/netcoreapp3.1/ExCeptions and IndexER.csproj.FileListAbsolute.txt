@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\bin\Debug\netcoreapp3.1\ExCeptions and IndexER.exe
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\bin\Debug\netcoreapp3.1\ExCeptions and IndexER.deps.json
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\bin\Debug\netcoreapp3.1\ExCeptions and IndexER.runtimeconfig.json
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\bin\Debug\netcoreapp3.1\ExCeptions and IndexER.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\bin\Debug\netcoreapp3.1\ExCeptions and IndexER.dll
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\bin\Debug\netcoreapp3.1\ExCeptions and IndexER.pdb
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.dll
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.pdb
+C:\Users\Asus\source\repos\ExCeptions and IndexER\ExCeptions and IndexER\obj\Debug\netcoreapp3.1\ExCeptions and IndexER.genruntimeconfig.cache
